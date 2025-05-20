@@ -22,7 +22,7 @@ The application will be available at `http://localhost:8000`
 ## Acceptance Criteria
 
 1. Design a database schema
-   - The database schema can be found in [schema.sql](db/schema.sql). It defines the following tables:
+   - The database schema can be found in [schema.sql](app/db/schema.sql). It defines the following tables:
       - `medspas`: Basic information about each medical spa location
       - `services`: Individual services offered by medspas with pricing and duration
       - `appointments`: Customer appointments with date/time and status
